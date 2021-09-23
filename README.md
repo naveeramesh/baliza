@@ -1,4 +1,2 @@
 # baliza
 
-
-## Getting Started
